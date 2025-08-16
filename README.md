@@ -1,2 +1,7 @@
-# Exploring-Statistical-Inference-Uncovering-the-Insights-in-Insurance-Charge-Analysis
-In this comprehensive notebook, we delved into a dataset comprising 1338 rows of insured data, conducting a thorough statistical inference. We covered various approaches, including the analysis of variance (ANOVA), the general linear test approach, and examined descriptive measures of association.
+📑 **Statistical Inference on Insurance Data**  
+
+![Unknown](https://github.com/user-attachments/assets/2871475a-d9d1-4190-a7b0-6c630f55dbbf)
+
+Analyzed a dataset of 1,338 insured records using statistical inference techniques. Applied ANOVA, general linear tests, and examined descriptive measures of association to extract insights. Full project available on **[Kaggle](https://www.kaggle.com/emmanuel-djegou/insurance-data-inference)**.
+
+
